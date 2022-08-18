@@ -1,0 +1,1 @@
+Simple web storage app that is deployed on Goerli testnet (chain id = 5) with Infura infra endpoint
