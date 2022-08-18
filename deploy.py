@@ -48,7 +48,7 @@ print(w3.isConnected())
 print(w3.eth.chain_id)
 # Goerli testnet chain ID is 5
 chain_id = w3.eth.chain_id
-my_address = "0xAA23f0eEB41cCF984Af9c192f260FEfBBCc0d8Ec"
+my_address = "0x7B79079271A010E28b73d1F88c84C6720E2EF903"
 # Need to add '0x' in front of the private key, as it works in hexadecimal
 # Hard-coding private key is a bad idea
 private_key = os.getenv("PRIVATE_KEY")
